@@ -47,7 +47,7 @@
       "modrinth": "xaeros-minimap"
     },
     {
-      "modrinth": "architectury-api"
+      "modrinth": "architectury-api" "version": "17.0.6+fabric"
     }
   ],
   "configs": [
