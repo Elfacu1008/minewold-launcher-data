@@ -1,4 +1,4 @@
-{
+cu{
   "version": "1.3.0",
   "cleanMods": true,
   "launcher": {
@@ -11,7 +11,7 @@
   },
   "mods": [
     {
-      "github": "TU_USUARIO/minewold-mod",
+      "github": "Elfacu1008/minewold-mod",
       "asset": "minewold-menu.jar"
     },
     {
@@ -60,7 +60,7 @@
   "configs": [
     {
       "path": "options.txt",
-      "url": "https://raw.githubusercontent.com/TU_USUARIO/minewold-launcher-data/main/options.txt",
+      "url": "https://raw.githubusercontent.com/Elfacu1008/minewold-launcher-data/main/options.txt",
       "mode": "once"
     }
   ]
