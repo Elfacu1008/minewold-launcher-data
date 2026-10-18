@@ -50,7 +50,7 @@
   "configs": [
     {
       "path": "options.txt",
-      "url": "https://raw.githubusercontent.com/Elfacu1008/minewold-launcher-data/blob/main/options.txt",
+      "url": "https://github.com/Elfacu1008/minewold-launcher-data/blob/main/options.txt",
       "mode": "once"
     }
   ]
