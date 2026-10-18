@@ -45,6 +45,9 @@
     },
     {
       "modrinth": "xaeros-minimap"
+    },
+    {
+      "modrinth": "architectury-api"
     }
   ],
   "configs": [
