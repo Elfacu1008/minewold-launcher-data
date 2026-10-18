@@ -1,0 +1,57 @@
+{
+  "version": "1.2.0",
+  "cleanMods": true,
+  "launcher": {
+    "skin": "halloween",
+    "serverIp": "minewold.net",
+    "links": {
+      "discord": "https://discord.gg/EDR9ATkPuJ",
+      "store": "https://tienda.minewold.net/"
+    }
+  },
+  "mods": [
+    {
+      "modrinth": "fabric-api"
+    },
+    {
+      "modrinth": "sodium"
+    },
+    {
+      "modrinth": "lithium"
+    },
+    {
+      "modrinth": "ferrite-core"
+    },
+    {
+      "modrinth": "modernfix"
+    },
+    {
+      "modrinth": "entityculling"
+    },
+    {
+      "modrinth": "krypton"
+    },
+    {
+      "modrinth": "dynamic-fps"
+    },
+    {
+      "modrinth": "noisium"
+    },
+    {
+      "modrinth": "simple-voice-chat"
+    },
+    {
+      "modrinth": "jei"
+    },
+    {
+      "modrinth": "xaeros-minimap"
+    }
+  ],
+  "configs": [
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/TU_USUARIO/minewold-launcher-data/main/options.txt",
+      "mode": "once"
+    }
+  ]
+}
